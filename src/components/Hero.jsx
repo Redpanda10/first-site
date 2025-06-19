@@ -13,6 +13,7 @@ const Hero = () => {
       <h1>Hello, I'm Mohit Singh Budal</h1>
       <p>Creative Developer & Designer</p>
       <button className="cta" onClick={scrollToProjects}>View Projects</button>
+      <h5>Scroll Down ... !</h5>
     </section>
   );
 };
