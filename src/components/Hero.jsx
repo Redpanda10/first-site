@@ -10,7 +10,7 @@ const Hero = () => {
 
   return (
     <section className="hero">
-      <h1>Hello, I'm Your Name</h1>
+      <h1>Hello, I'm Mohit Singh Budal</h1>
       <p>Creative Developer & Designer</p>
       <button className="cta" onClick={scrollToProjects}>View Projects</button>
     </section>
